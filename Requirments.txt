@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+langgraph
+chromadb
+sentence-transformers
+langchain-core
+langchain-groq
+beautifulsoup4
+pandas
+requests
+seaborn
+scikit-learn
+numpy
+matplotlib
+joblib
+imbalanced-learn
